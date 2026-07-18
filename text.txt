@@ -131,3 +131,5 @@ git checkout -b  اسم البرناش سمي اي اسم
 git push -u origin اسم البرانش الي انت كبته فوق
 
 ====================================================
+
+git push --set-upstream origin master
